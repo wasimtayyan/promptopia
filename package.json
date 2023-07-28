@@ -12,7 +12,6 @@
     "autoprefixer": "10.4.14",
     "bcrypt": "^5.1.0",
     "mongodb": "^5.7.0",
-    "mongoos": "^0.0.1-security",
     "mongoose": "^7.3.2",
     "next": "13.4.7",
     "next-auth": "^4.22.1",

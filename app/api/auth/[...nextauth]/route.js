@@ -25,7 +25,8 @@ const handler = NextAuth({
                 await connectToDB();
 
                 // check if user already exists
-                const userExists = await User.findOne({ email: profile.email });
+                const options = { maxTimeMS: 20000 };
+                const userExists = await User.findOne({ email: profile.email }, options);
 
                 // if not, create a new document and save user in MongoDB
                 if (!userExists) {
