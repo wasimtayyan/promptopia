@@ -9,13 +9,13 @@ Welcome to Promptopia, an open-source AI prompting tool designed for the modern 
 
 Promptopia is built on a foundation of cutting-edge technologies that ensure a seamless and efficient user experience. The following technologies are at the core of our application:
 
-**NextAuth** - An advanced authentication solution that provides a secure and streamlined login process. With NextAuth, users can access Promptopia with confidence and peace of mind.
+#### **NextAuth** - An advanced authentication solution that provides a secure and streamlined login process. With NextAuth, users can access Promptopia with confidence and peace of mind.
 
-**MongoDB** - We harness the power of MongoDB, a versatile and scalable NoSQL database, to store and manage data. This enables us to efficiently handle your prompts, ensuring quick retrieval and storage.
+#### **MongoDB** - We harness the power of MongoDB, a versatile and scalable NoSQL database, to store and manage data. This enables us to efficiently handle your prompts, ensuring quick retrieval and storage.
 
-**Next.js** - Promptopia leverages Next.js to handle the backend and create various endpoints. Next.js's server-side rendering capabilities contribute to a smooth and responsive user interface.
+#### **Next.js** - Promptopia leverages Next.js to handle the backend and create various endpoints. Next.js's server-side rendering capabilities contribute to a smooth and responsive user interface.
 
-**Tailwind CSS** - Our styling is crafted using Tailwind CSS, a utility-first CSS framework. This allows us to maintain a consistent and visually pleasing design throughout the application.
+#### **Tailwind CSS** - Our styling is crafted using Tailwind CSS, a utility-first CSS framework. This allows us to maintain a consistent and visually pleasing design throughout the application.
 
 
 ## Contributing
