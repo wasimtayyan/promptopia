@@ -1,10 +1,10 @@
-#Promptopia - AI Prompting Tool
+# Promptopia - AI Prompting Tool
 
 Welcome to Promptopia, an open-source AI prompting tool designed for the modern world. With Promptopia, you can effortlessly discover, create, and share creative prompts, unlocking your imagination and enhancing your creative projects.
 
 ![promptopia](https://github.com/wasimtayyan/promptopia/assets/127048388/fd21ebc0-a1fa-4e8d-bc6c-73af46f52102)
 
-##Technologies Used
+## Technologies Used
 
 
 Promptopia is built on a foundation of cutting-edge technologies that ensure a seamless and efficient user experience. The following technologies are at the core of our application:
@@ -18,7 +18,7 @@ Next.js - Promptopia leverages Next.js to handle the backend and create various 
 Tailwind CSS - Our styling is crafted using Tailwind CSS, a utility-first CSS framework. This allows us to maintain a consistent and visually pleasing design throughout the application.
 
 
-##Contributing
+## Contributing
 
 Promptopia welcomes contributions from the open-source community. If you'd like to contribute to the project, please follow these steps:
 
