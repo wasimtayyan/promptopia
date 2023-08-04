@@ -10,11 +10,9 @@ const MyProfile = ({ params }) => {
 
   const [posts, setPosts] = useState([]);
 
-
-
   useEffect(() => {
     const fetchPosts = async () => {
-      const response = await fetch(`api/users/${params?.id}/posts`);
+      const response = await fetch(`/api/users/${params?.id}/posts`);
       const data = await response.json();
       setPosts(data);
     };
